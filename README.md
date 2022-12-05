@@ -57,3 +57,12 @@ bash 7_merge_SAEHD.sh
 bash 8_merged_to_mp4.sh
 
 ```
+
+
+## 6. To merge two source videos:
+
+Run the following script
+```bash
+bash merge_video_sources.sh -s maruf.mp4  -d maruf_2.mp4 -o maruf_output.mp4
+
+```
